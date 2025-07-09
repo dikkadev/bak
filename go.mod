@@ -1,4 +1,4 @@
-module github.com/sett17/bak
+module github.com/dikkadev/bak
 
 go 1.22.0
 
